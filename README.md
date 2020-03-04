@@ -39,6 +39,9 @@ http://mlj-institute.appspot.com/
 # About author
 [Jordan Micah Bennett](https://www.linkedin.com/in/programminggodjordan/) is the founder of [MLJI](http://mlj-institute.appspot.com/), author of "**Artificial Neural Networks for Kids**" (See either [Amazon url](https://www.amazon.com/dp/B077FX57ZZ) or [free copy](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)) and inventor of the ["Supersymmetric Artificial Neural Network"](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network). 
 
+# Recommended reading for babies
+MLJI's course is designed for teens/adults. Albeit, take a look at these intriguing books for babies: [Einsteinian books for babies](https://medium.com/@jordanmicahbennett/einsteinian-books-for-babies-4aa18c3c23c)
+
 # Happy coding!
 
 
