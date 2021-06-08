@@ -20,7 +20,7 @@
 
 
 
-# Curriculum
+# Rapid/Optimal ~6+ Week Curriculum
 This curriculum is designed to cater to two main categories of users, including **non-programmers** and **programmers**. Those two categories naturally cover persons including those with **High school diplomas, Bachelors degrees, Masters degrees, PhDs, and Professorships**.
 
 The two main categories above are expressible as 2 types, based on the goals that [MLJI](http://mlj-institute.appspot.com/) desginates its students to perform.
