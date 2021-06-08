@@ -3,14 +3,21 @@
 ![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/email_marketing_style_01.png)
 
 
+# Why learn Ai development and application?
+1. [The world's smartest people are switching careers into Ai research and application/productization!](https://www.linkedin.com/posts/god-bennett_httpslnkdinebrmfzu-activity-6761811288260694016-70Ys).
+2. According to McKinsey Global institute, Ai will yield a [15 trillion dollar market cap by the year 2030](https://www.forbes.com/sites/greatspeculations/2019/02/25/ai-will-add-15-trillion-to-the-world-economy-by-2030/?sh=76b9bd4e1852). This is around the same time [800 million jobs shall be automated away, according to Bank of America](https://www.bbc.com/news/world-us-canada-42170100).
+ * It is thus key to intimately benefit in this automation effort, rather than fail to do so.
+
+ 
 # Introduction
 1. Brain inspired computer code or smart apps, called **AGI or artificial _general_ intelligence** (predicted to happen by [as soon as 2029 or sooner](http://www.businessinsider.com/ray-kurzweil-thinks-well-have-human-level-ai-by-2029-2014-12)), will perhaps one day be [mankind's last invention!](https://www.youtube.com/watch?v=9snY7lhJA4c) For now though, AGI's predecessor, called **artificial _narrow_ intelligence**, also called **artificial intelligence**, can do amazing stuff like [diagnose diseases better than human doctors](https://futurism.com/ai-diagnose-heart-disease-lung-cancer-more-accurately-doctors/), or [give game characters the ability to learn to navigate game environments without human aid](https://www.youtube.com/watch?v=qv6UVOQ0F44)! 
 
-2. Crucially, the **Jamaican government** [has recognized that artificial narrow intelligence, a part of machine learning, is a threat to jobs](http://jamaica-gleaner.com/article/news/20180418/beware-artificial-intelligence-wheatley-warns-bpo-sector). Notably, [here's a list of jobs where robots or smart software are already replacing humans](https://www.msn.com/en-us/news/money/21-jobs-where-robots-are-already-replacing-humans/ss-BBv6yiU#image=13). (Some great readings regarding job automation by robots or smart software, may additionally be found [in this list](https://disruptionhub.com/10-jobs-robots-replacing-humans/), and [in this one too](http://home.bt.com/tech-gadgets/future-tech/9-jobs-overtaken-by-robots-11364003046052).)
+2. Crucially, the **Jamaican government** [has recognized that artificial narrow intelligence, a part of machine learning, is a threat to jobs](http://jamaica-gleaner.com/article/news/20180418/beware-artificial-intelligence-wheatley-warns-bpo-sector). Notably, [here's a list of jobs where robots or smart software are already replacing humans](https://blog.cheapism.com/robots-taking-jobs/). 
 
-3. As the **first machine learning school established in Jamaica** ([and probably the world's first machine learning dedicated university-like institution](https://medium.com/@jordanmicahbennett/worlds-1st-university-like-artificial-intelligence-initiative-launched-somewhat-in-jamaica-d0deb56a4495)) on December 23, 2016, [MLJI](http://mlj-institute.appspot.com/) seeks to help more and more Jamaicans to find out what steps they can take to acquire skills needed to **stay relevant** in a world that's more and more driven by artificial intelligence, that shall replace more and more jobs with physical robots and or smart software. 
+3. As the **1st machine learning school established in Jamaica/Carribean** in May, 2021, [AICES](https://github.com/g0dEngineer/AICES) seeks to help more and more Jamaicans to find out what steps they can take to acquire skills needed to **stay relevant** in a world that's more and more driven by artificial intelligence, that shall replace more and more jobs with physical robots and or smart software. 
 
-4. As such, [MLJI](http://mlj-institute.appspot.com/) is an institute that aims to bring more Jamaicans into the modern world of artificial intelligence and programming through fun, tailored lectures. Pertinently, see the "why" tab on the [MLJI website](http://mlj-institute.appspot.com/), to find out why **high-schoolers, or even busy Masters/PhD/Professor people who are not trained in the machine learning field can participate in modern machine learning**!
+4. As such, [AICES](https://github.com/g0dEngineer/AICES) is an institute that aims to bring more Jamaicans into the modern world of artificial intelligence and programming through fun, tailored lectures. Pertinently, see the "why" tab on the [AICES website](https://github.com/g0dEngineer/AICES), to find out why **high-schoolers, or even busy Masters/PhD/Professor people who are not trained in the machine learning field can participate in modern machine learning**!
+
 
 
 # Curriculum
@@ -31,6 +38,13 @@ By the time you complete either one of [MLJI](http://mlj-institute.appspot.com/)
 # Curriculum Requirements
 1. Candidates must have at least passed the [GSAT](https://en.wikipedia.org/wiki/Grade_Six_Achievement_Test) or completed the [PEP](http://www.moe.gov.jm/primary-exit-profile-pep). (Additionally, up to PhD/Professor level candidates are welcome too!)
 2. Candidates must be willing to devote 6 to 8+ weeks to MLJI's curriculum. In other words, candidates must be willing to build himself/herself, by acquiring machine learning skills through MLJI's 6-8+ week curriculum.
+
+
+# Why Artificial Neural Network focussed?
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum-Type-A_Non-Programmers/blob/master/data/logo.png)
+
+
+As underlined in [prior Live Neural network sessions by organizer Bennett](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions), artificial neural networks can represent a wide variety of utilities/functions as seen in [Universal Approximation Theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and since neural networks power most cognitive/smart apps today, ranging from Tesla's self driving cars, to Facebook's auto face tagging Ai, CAII targets this core field. Learning neural networks which are general models, gives rise to intuition needed to venture elsewhere if neccessary.
 
 
 # Website
