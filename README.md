@@ -5,7 +5,7 @@
 
 # Why learn Ai development and application?
 1. [The world's smartest people are switching careers into Ai research and application/productization!](https://www.linkedin.com/posts/god-bennett_httpslnkdinebrmfzu-activity-6761811288260694016-70Ys).
-2. According to McKinsey Global institute, Ai will yield a [15 trillion dollar market cap by the year 2030](https://www.forbes.com/sites/greatspeculations/2019/02/25/ai-will-add-15-trillion-to-the-world-economy-by-2030/?sh=76b9bd4e1852). This is around the same time [800 million jobs shall be automated away, according to Bank of America](https://www.bbc.com/news/world-us-canada-42170100).
+2. According to [PwC Global](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html), Ai will yield a [15 trillion dollar market cap by the year 2030](https://www.forbes.com/sites/greatspeculations/2019/02/25/ai-will-add-15-trillion-to-the-world-economy-by-2030/?sh=76b9bd4e1852). This is around the same time [800 million jobs shall be automated away, according to Bank of America](https://www.bbc.com/news/world-us-canada-42170100).
  * It is thus key to intimately benefit in this automation effort, rather than fail to do so.
 
  
