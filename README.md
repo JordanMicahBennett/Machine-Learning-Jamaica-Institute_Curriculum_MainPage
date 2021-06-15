@@ -16,7 +16,7 @@
 
 3. As the **1st machine learning school established in Jamaica/Carribean** in May, 2021, [AICES](https://github.com/g0dEngineer/AICES) seeks to help more and more Jamaicans to find out what steps they can take to acquire skills needed to **stay relevant** in a world that's more and more driven by artificial intelligence, that shall replace more and more jobs with physical robots and or smart software. 
 
-4. As such, [AICES](https://github.com/g0dEngineer/AICES) is an institute that aims to bring more Jamaicans into the modern world of artificial intelligence and programming through fun, tailored lectures. Pertinently, see the "why" tab on the [AICES website](https://github.com/g0dEngineer/AICES), to find out why **high-schoolers, or even busy Masters/PhD/Professor people who are not trained in the machine learning field can participate in modern machine learning**!
+4. As such, [MLJI](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage) is an institute that aims to bring more Jamaicans into the modern world of artificial intelligence and programming through fun, tailored lectures. Pertinently, see the "why" tab on the [MLJI website](hmlj-institute.appspot.com), to find out why **high-schoolers, or even busy Masters/PhD/Professor people who are not trained in the machine learning field can participate in modern machine learning**!
 
 
 
@@ -50,8 +50,13 @@ As underlined in [prior Live Neural network sessions by organizer Bennett](https
 # Website
 http://mlj-institute.appspot.com/
 
+# Extensions/Partners
+
+This course has been adapted for [AICE](https://www.aiceafrica.com) via AdalabsAfrica, and Delaware State University.
+
+
 # About author
-[Jordan Micah Bennett](https://www.linkedin.com/in/programminggodjordan/) is the founder of [MLJI](http://mlj-institute.appspot.com/), author of "**Artificial Neural Networks for Kids**" (See either [Amazon url](https://www.amazon.com/dp/B077FX57ZZ) or [free copy](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)) and inventor of the ["Supersymmetric Artificial Neural Network"](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network). 
+[God Bennett](https://www.linkedin.com/in/god-bennett/) is the founder of [MLJI](http://mlj-institute.appspot.com/), author of "**Artificial Neural Networks for Kids**" (See either [Amazon url](https://www.amazon.com/dp/B077FX57ZZ) or [free copy](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)) and inventor of the ["Supersymmetric Artificial Neural Network"](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network). 
 
 # Recommended reading for babies
 MLJI's course is designed for teens/adults. Albeit, take a look at these intriguing books for babies: [Einsteinian books for babies](https://medium.com/@jordanmicahbennett/einsteinian-books-for-babies-4aa18c3c23c)
