@@ -1,5 +1,5 @@
 # [MLJI](http://mlj-institute.appspot.com/) Curriculum Main Page
-
+# Course: "A Practical/Rapid ~6+ Week Ai Course is all you need" 
 
 # Meaning of life & the MLJI roadmap: 
  * Start as a typical computer user with or without programming skills, and end as an Artificial Intelligence product creator and profit from [Ai's predicted 15 Trillion dollar 2030 market cap](https://www.forbes.com/sites/greatspeculations/2019/02/25/ai-will-add-15-trillion-to-the-world-economy-by-2030/?sh=76b9bd4e1852)! 
