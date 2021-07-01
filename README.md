@@ -8,6 +8,8 @@
      * As an MLJI trained person [who happens to be a software dev at a bank], building out an Ai based masked face recognition app, is another one of thousands of exciting practical/profitable AI apps, through MLJI roadmap. ([See relevant Ai app by creator of MLJI](https://github.com/JordanMicahBennett/MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP))
      * As an MLJI trained person [who happens to be a nurse or doctor...], building out an Ai based covid19 diagnosis, is another one of thousands of exciting practical/profitable AI apps, through MLJI roadmap.  ([See relevant Ai app by creator of MLJI](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR))
      * ...
+# Bonus-beyond: Humanity's last invention - Introduction to Artificial General Intelligence ([Example: Prof Ben Gortzel](https://youtu.be/9snY7lhJA4c))
+See course content (15 minutes read): https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf
 
 ![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/email_marketing_style_01.png)
 
