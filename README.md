@@ -4,8 +4,6 @@ This platform has been adapted into the globally accredited Diploma, "[Universal
 
 # This paradigm occurs wrt [RobotizeJA's objectives](https://github.com/JordanMicahBennett/ROBOTIZE_JA).
 
-![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/email_marketing_style_01.png)
-
 
 # [MLJI](http://mlj-institute.rf.gd) Curriculum Main Page
 # Course: "A Practical/Rapid ~6+ Week Ai Course is all you need" 
