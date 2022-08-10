@@ -94,8 +94,7 @@ This course has been adapted for [AICE](https://www.aiceafrica.com) via AdalabsA
 
 
 
-# See a reasonably soft [Introduction to Artificial General Intelligence](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf
-)
+# See a reasonably soft [Introduction to Artificial General Intelligence](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf)
 
 
 # Recommended reading for babies
