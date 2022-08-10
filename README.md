@@ -72,13 +72,10 @@ By the time you complete either one of [MLJI](http://mlj-institute.rf.gd)'s curr
 
 
 
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainProgrammerPage/blob/master/data/exclamation_mark.png)
 
 # Why Artificial Neural Network focussed?
-
-![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/exclamation_mark.png)
-
-# Why Artificial Neural Network focussed?
-![Alt Text](https://github.com/g0dEngineer/ASTIS/blob/main/data/logo.png)
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/logo.png)
 
 As underlined in [prior Live Neural network sessions by organizer Bennett](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions), artificial neural networks can represent a wide variety of utilities/functions as seen in [Universal Approximation Theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and since neural networks power most cognitive/smart apps today, ranging from Tesla's self driving cars, to Facebook's auto face tagging Ai, ASTIS targets this core field. Learning neural networks which are general models, gives rise to intuition needed to venture elsewhere if neccessary.
 
