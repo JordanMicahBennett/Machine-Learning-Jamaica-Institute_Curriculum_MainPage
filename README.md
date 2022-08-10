@@ -8,6 +8,8 @@ This platform has been adapted into the globally accredited Diploma, "[Universal
 # [MLJI](http://mlj-institute.rf.gd) Curriculum Main Page
 # Course: "A Practical/Rapid ~6+ Week Ai Course is all you need" 
 
+
+
 # Meaning of life & the MLJI roadmap: 
  * Start as a typical computer user with or without programming skills, and end as an Artificial Intelligence product creator and profit from [Ai's predicted 15 Trillion dollar 2030 market cap](https://www.forbes.com/sites/greatspeculations/2019/02/25/ai-will-add-15-trillion-to-the-world-economy-by-2030/?sh=76b9bd4e1852)! 
  * With [800 million jobs to be automated away by 2030](https://www.bbc.com/news/world-us-canada-42170100), and Artificial Intelligence market cap at [15 trillion around the same time](https://www.forbes.com/sites/greatspeculations/2019/02/25/ai-will-add-15-trillion-to-the-world-economy-by-2030/?sh=76b9bd4e1852), become a builder of Ai solutions, and [capture your chunk of the exponentially growing Ai market](https://singularityhub.com/2018/07/15/why-most-of-us-fail-to-grasp-coming-exponential-gains-in-ai/).
@@ -88,6 +90,13 @@ This course has been adapted for [AICE](https://www.aiceafrica.com) via AdalabsA
 
 # About author
 [God Bennett](https://www.linkedin.com/in/god-bennett/) is the founder of [MLJI](http://mlj-institute.rf.gd), author of "**Artificial Neural Networks for Kids**" (See either [Amazon url](https://www.amazon.com/dp/B077FX57ZZ) or [free copy](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)) and inventor of the ["Supersymmetric Artificial Neural Network"](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network). 
+
+
+
+
+# See a reasonably soft [Introduction to Artificial General Intelligence](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf
+)
+
 
 # Recommended reading for babies
 MLJI's course is designed for teens/adults. Albeit, take a look at these intriguing books for babies: [Einsteinian books for babies](https://medium.com/@jordanmicahbennett/einsteinian-books-for-babies-4aa18c3c23c)
