@@ -81,7 +81,7 @@ As underlined in [prior Live Neural network sessions by organizer Bennett](https
 
 # Why combine artificial neural networks from scratch in with focus in practical machine learning library stack such as tensorflow/pytorch...?
 
-⚫Pertaining to artificial neural networks from scratch in particular, as [Microsoft's Joseph Albahari says](https://youtu.be/z8DY5DndmxI?t=192) (in his csharp based neural networks from scratch lecture), machine learning libraries are a great way to start, but not necessarily a great place to end up! 
+⚫Pertaining to artificial neural networks from scratch in particular, as [Microsoft's Joseph Albahari says](https://youtu.be/z8DY5DndmxI?t=192) (in his csharp based neural networks from scratch lecture),  machine learning libraries are reasonably a great place to end up, but not necessarily a great place to start! 
 
 As noted by Bennett, [understanding these broad/fundamental neural network models from scratch without machine learning libraries, builds intuition in applying and debugging machine learning libraries](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions).
 
