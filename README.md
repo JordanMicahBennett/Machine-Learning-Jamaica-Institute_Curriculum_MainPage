@@ -107,7 +107,18 @@ This course has been adapted for [AICE](https://www.aiceafrica.com) via AdalabsA
 # About author
 [God Bennett](https://www.linkedin.com/in/god-bennett/) is the founder of [MLJI](http://mlj-institute.rf.gd), author of "**Artificial Neural Networks for Kids**" (See either [Amazon url](https://www.amazon.com/dp/B077FX57ZZ) or [free copy](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)) and inventor of the ["Supersymmetric Artificial Neural Network"](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network). 
 
-
+# Skills gained
+- [x] Key Fundamental Artificial Neural Network Coding  (Without bases like this that explore [Universal Function Approximators](https://en.wikipedia.org/wiki/Universal_approximation_theorem) like Neural Networks, it is harder to debug Machine Learning Libraries when something goes wrong!)
+- [x] Practical Convolutional Artificial Neural Network application (Seen in real world in Self driving cars, Disease Diagnosis engines etc)
+- [x] Practical Recurrent Artificial Neural Network application (Seen in real world in any voice recognition App)
+- [x] Practical Generative Adversarial Network application (Seen in real world in synthetic Avatar Apps)
+- [x] Practical Reinforcement Learning application (Seen in real world in Electricity Consumption optimization)
+- [x] Practical Data Wrangling (Without Data Ai is essentially meaningless)
+- [x] Deep Learning/Paper Writing (Exposed in Certificate)
+- [x] Ai Product Building (Exposed in Diploma)
+- [x] Rapid Ai Product Building Methodology (Exposed in Diploma) (including [schedules](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/Ai%20Training%20Schedule%20Template%20--%20God%20Bennett.pdf))
+- [x] Artificial General Intelligence Basis (Exposed in both Certificate & Diploma. )
+* Separate/outside of the Syllabus-Exam rubric & Diploma, UAD lecturer Bennett uniquely introduces Human Level Ai/Artificial General Intelligence - (predicted by around 2023-2029 or later, by experts to be mankind's last invention).
 
 
 # See a reasonably soft [Introduction to Artificial General Intelligence](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/Introduction%20to%20Artificial%20General%20Intelligence.pdf)
