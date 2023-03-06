@@ -116,7 +116,7 @@ This course has been adapted for [AICE](https://www.aiceafrica.com) via AdalabsA
 - [x] Practical Data Wrangling (Without Data Ai is essentially meaningless)
 - [x] Deep Learning/Paper Writing (Exposed in Certificate)
 - [x] Ai Product Building (Exposed in Diploma)
-- [x] Rapid Ai Product Building Methodology (Exposed in Diploma) (including [schedules](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/Ai%20Training%20Schedule%20Template%20--%20God%20Bennett.pdf))
+- [x] Rapid Ai Product Building Methodology (Exposed in Diploma) (including [schedules](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/Ai%20Development%20Schedule%20Template%20--%20God%20Bennett.pdf))
 - [x] Artificial General Intelligence Basis (Exposed in both Certificate & Diploma. )
 * Separate/outside of the Syllabus-Exam rubric & Diploma, UAD lecturer Bennett uniquely introduces Human Level Ai/Artificial General Intelligence - (predicted by around 2023-2029 or later, by experts to be mankind's last invention).
 
